@@ -1,0 +1,52 @@
+type,case_id,records,message
+priority-conflict,C00002,fax:FX-000002 phone:CALL-000001,Priority: original fax:FX-000002 says standard; phone:CALL-000001 says expedited
+priority-conflict,C00003,fhir:PAS-000002 portal:PRT-000001,Priority: original fhir:PAS-000002 says expedited; portal:PRT-000001 says standard
+decision-conflict,C00006,portal:PRT-000003 phone:CALL-000002,Decision: portal:PRT-000003 says approved; phone:CALL-000003 says denied
+decision-conflict,C00007,fax:FX-000004 phone:CALL-000004,Decision: fax:FX-N-000004 says approved; phone:CALL-000005 says denied
+priority-conflict,C00008,phone:CALL-000006 fhir:PAS-000003,Priority: original phone:CALL-000006 says standard; fhir:PAS-000003 says expedited
+priority-conflict,C00010,portal:PRT-000004 fax:FX-000006,Priority: original portal:PRT-000004 says standard; fax:FX-000006 says expedited
+priority-conflict,C00013,fax:FX-000009 phone:CALL-000008,Priority: original fax:FX-000009 says standard; phone:CALL-000008 says expedited
+decision-conflict,C00016,portal:PRT-000005 fax:FX-000011,Decision: portal:PRT-000005 says approved; fax:FX-N-000011 says denied
+priority-conflict,C00017,portal:PRT-000006 phone:CALL-000010,Priority: original portal:PRT-000006 says standard; phone:CALL-000010 says expedited
+decision-conflict,C00027,phone:CALL-000015 portal:PRT-000011,Decision: phone:CALL-000016 says approved; portal:PRT-000011 says denied
+decision-conflict,C00035,fhir:PAS-000010 portal:PRT-000017,Decision: fhir:PAS-000010 says denied; portal:PRT-000017 says approved
+decision-conflict,C00040,fhir:PAS-000013 portal:PRT-000019,Decision: fhir:PAS-000013 says approved; portal:PRT-000019 says denied
+decision-conflict,C00048,portal:PRT-000024 phone:CALL-000023,Decision: portal:PRT-000024 says approved; phone:CALL-000024 says denied
+decision-conflict,C00053,portal:PRT-000027 phone:CALL-000027,Decision: portal:PRT-000027 says approved; phone:CALL-000028 says denied
+priority-conflict,C00056,portal:PRT-000028 phone:CALL-000029,Priority: original portal:PRT-000028 says expedited; phone:CALL-000029 says standard
+priority-conflict,C00057,portal:PRT-000029 fhir:PAS-000016,Priority: original portal:PRT-000029 says standard; fhir:PAS-000016 says expedited
+decision-conflict,C00059,portal:PRT-000030 fhir:PAS-000018,Decision: portal:PRT-000030 says approved; fhir:PAS-000018 says denied
+priority-conflict,C00067,fax:FX-000025 phone:CALL-000032,Priority: original fax:FX-000025 says expedited; phone:CALL-000032 says standard
+decision-conflict,C00067,fax:FX-000025 phone:CALL-000032,Decision: fax:FX-N-000025 says approved; phone:CALL-000033 says denied
+priority-conflict,C00075,fax:FX-000029 fhir:PAS-000024,Priority: original fax:FX-000029 says standard; fhir:PAS-000024 says expedited
+decision-conflict,C00076,portal:PRT-000035 phone:CALL-000038,Decision: portal:PRT-000035 says approved; phone:CALL-000039 says denied
+priority-conflict,C00078,fax:FX-000030 fhir:PAS-000025,Priority: original fax:FX-000030 says standard; fhir:PAS-000025 says expedited
+priority-conflict,C00095,fax:FX-000037 fhir:PAS-000032,Priority: original fax:FX-000037 says standard; fhir:PAS-000032 says expedited
+priority-conflict,C00096,portal:PRT-000043 fax:FX-000038,Priority: original portal:PRT-000043 says expedited; fax:FX-000038 says standard
+decision-conflict,C00096,portal:PRT-000043 fax:FX-000038,Decision: portal:PRT-000043 says approved; fax:FX-N-000038 says denied
+priority-conflict,C00100,fhir:PAS-000034 phone:CALL-000050,Priority: original fhir:PAS-000034 says standard; phone:CALL-000050 says expedited
+decision-conflict,C00115,fhir:PAS-000042 fax:FX-000044,Decision: fhir:PAS-000042 says approved; fax:FX-N-000044 says denied
+decision-conflict,C00124,phone:CALL-000061 fhir:PAS-000047,Decision: phone:CALL-000062 says approved; fhir:PAS-000047 says denied
+decision-conflict,C00141,fax:FX-000056 phone:CALL-000067,Decision: fax:FX-N-000056 says approved; phone:CALL-000068 says denied
+priority-conflict,C00143,fhir:PAS-000057 portal:PRT-000055,Priority: original fhir:PAS-000057 says standard; portal:PRT-000055 says expedited
+priority-conflict,C00158,fax:FX-000062 portal:PRT-000061,Priority: original fax:FX-000062 says standard; portal:PRT-000061 says expedited
+priority-conflict,C00171,fax:FX-000066 phone:CALL-000080,Priority: original fax:FX-000066 says standard; phone:CALL-000080 says expedited
+decision-conflict,C00172,fhir:PAS-000071 phone:CALL-000081,Decision: fhir:PAS-000071 says approved; phone:CALL-000082 says denied
+priority-conflict,C00202,phone:CALL-000094 portal:PRT-000072,Priority: original phone:CALL-000094 says standard; portal:PRT-000072 says expedited
+decision-conflict,C00203,fax:FX-000077 phone:CALL-000096,Decision: fax:FX-N-000076 says approved; phone:CALL-000097 says denied
+priority-conflict,C00213,fax:FX-000082 portal:PRT-000076,Priority: original fax:FX-000082 says standard; portal:PRT-000076 says expedited
+decision-conflict,C00224,fhir:PAS-000093 phone:CALL-000102,Decision: fhir:PAS-000093 says approved; phone:CALL-000103 says denied
+decision-conflict,C00243,phone:CALL-000111 fhir:PAS-000101,Decision: phone:CALL-000112 says denied; fhir:PAS-000101 says approved
+decision-conflict,C00244,phone:CALL-000113 fhir:PAS-000102,Decision: phone:CALL-000114 says approved; fhir:PAS-000102 says denied
+priority-conflict,C00260,fax:FX-000100 fhir:PAS-000110,Priority: original fax:FX-000100 says standard; fhir:PAS-000110 says expedited
+priority-conflict,C00270,fhir:PAS-000113 portal:PRT-000098,Priority: original fhir:PAS-000113 says standard; portal:PRT-000098 says expedited
+decision-conflict,C00270,fhir:PAS-000113 portal:PRT-000098,Decision: fhir:PAS-000113 says approved; portal:PRT-000098 says denied
+priority-conflict,C00278,phone:CALL-000117 fax:FX-000105,Priority: original phone:CALL-000117 says standard; fax:FX-000105 says expedited
+decision-conflict,C00283,portal:PRT-000104 phone:CALL-000119,Decision: portal:PRT-000104 says denied; phone:CALL-000120 says approved
+decision-conflict,C00284,fhir:PAS-000119 fax:FX-000107,Decision: fhir:PAS-000119 says approved; fax:FX-N-000105 says denied
+priority-conflict,C00287,portal:PRT-000106 fax:FX-000109,Priority: original portal:PRT-000106 says standard; fax:FX-000109 says expedited
+decision-conflict,C00296,fhir:PAS-000124 portal:PRT-000110,Decision: fhir:PAS-000124 says approved; portal:PRT-000110 says denied
+priority-conflict,C00301,fhir:PAS-000126 portal:PRT-000111,Priority: original fhir:PAS-000126 says standard; portal:PRT-000111 says expedited
+decision-conflict,C00303,fax:FX-000113 phone:CALL-000124,Decision: fax:FX-N-000111 says approved; phone:CALL-000125 says denied
+decision-conflict,C00304,phone:CALL-000126 portal:PRT-000112,Decision: phone:CALL-000127 says approved; portal:PRT-000112 says denied
+priority-conflict,C00305,fax:FX-000114 phone:CALL-000128,Priority: original fax:FX-000114 says standard; phone:CALL-000128 says expedited

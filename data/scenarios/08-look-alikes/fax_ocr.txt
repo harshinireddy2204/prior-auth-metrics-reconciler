@@ -1,0 +1,1655 @@
+=== FAX PAGE FX-000001 | RECEIVED 01/03/2026 07:03 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M47218034      DOB: 09/02/1971
+Requesting Provider NPI: 1107016523
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000001 | SENT 01/03/2026 13:22 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000001
+Authorization #: A2026-000003
+Determination: APPROVED
+Determination date: 01/03/2026 13:02
+Review timeframe extended: No
+
+=== FAX PAGE FX-000002 | RECEIVED 01/05/2026 02:09 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M34928930      DOB: 02/17/2009
+Requesting Provider NPI: 1378706182
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000003 | RECEIVED 01/12/2026 10:02 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M77274993      DOB: 11/03/1991
+Requesting Provider NPI: 1390143935
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000004 | RECEIVED 01/12/2026 12:27 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M61380069      DOB: 03/01/2003
+Requesting Provider NPI: 1618960607
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000005 | RECEIVED 01/13/2026 11:01 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M35907500      DOB: 09/13/1986
+Requesting Provider NPI: 1469803294
+Service / CPT: E0601  CPAP device
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000006 | RECEIVED 01/13/2026 14:30 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M22773813      DOB: 11/22/2013
+Requesting Provider NPI: 1469803294
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000007 | RECEIVED 01/14/2026 08:24 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M93411114      DOB: 03/28/1995
+Requesting Provider NPI: 1181988860
+Service / CPT: 27447  Total knee arthroplasty
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000008 | RECEIVED 01/14/2026 19:55 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M67951989      DOB: 06/10/1967
+Requesting Provider NPI: 1200335622
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000002 | SENT 01/15/2026 01:46 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000003
+Authorization #: A2026-000014
+Determination: APPROVED
+Determination date: 01/15/2026 01:38
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000006 | SENT 01/15/2026 04:47 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000007
+Authorization #: A2026-000021
+Determination: DENIED
+Determination date: 01/15/2026 04:27
+Review timeframe extended: No
+
+=== FAX PAGE FX-000009 | RECEIVED 01/16/2026 13:15 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M49325477      DOB: 04/22/1952
+Requesting Provider NPI: 1973153517
+Service / CPT: E0601  CPAP device
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000005 | SENT 01/16/2026 18:39 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000006
+Authorization #: A2026-000018
+Determination: APPROVED
+Determination date: 01/16/2026 18:11
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000007 | SENT 01/17/2026 06:55 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000008
+Authorization #: A2026-000023
+Determination: DENIED
+Determination date: 01/17/2026 06:27
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000008 | SENT 01/17/2026 13:47 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000009
+Authorization #: A2026-000029
+Determination: WITHDRAWN BY PROVIDER
+Determination date: 01/17/2026 13:15
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000003 | SENT 01/17/2026 15:43 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000004
+Authorization #: A2026-000015
+Determination: APPROVED
+Determination date: 01/17/2026 15:41
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000004 | SENT 01/18/2026 14:24 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000005
+Authorization #: A2026-000017
+Determination: DENIED
+Determination date: 01/18/2026 14:21
+Review timeframe extended: No
+
+=== FAX PAGE FX-000010 | RECEIVED 01/22/2026 11:03 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M24965727      DOB: 04/25/2004
+Requesting Provider NPI: 1973153517
+Service / CPT: 72148  MRI lumbar spine without contrast
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000011 | RECEIVED 01/22/2026 13:47 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M42028936      DOB: 05/21/1949
+Requesting Provider NPI: 1548842727
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000012 | RECEIVED 01/24/2026 16:54 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M80769029      DOB: 10/07/1942
+Requesting Provider NPI: 1730228396
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000013 | RECEIVED 01/25/2026 17:31 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M78199708      DOB: 09/23/1982
+Requesting Provider NPI: 1740154079
+Service / CPT: 72148  MRI lumbar spine without contrast
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000012 | SENT 01/26/2026 22:47 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000013
+Authorization #: A2026-000042
+Determination: DENIED
+Determination date: 01/26/2026 22:14
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000009 | SENT 01/29/2026 14:55 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000010
+Authorization #: A2026-000035
+Determination: APPROVED
+Determination date: 01/29/2026 14:21
+Review timeframe extended: No
+
+=== FAX PAGE FX-000014 | RECEIVED 01/29/2026 14:40 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M58890035      DOB: 06/17/1981
+Requesting Provider NPI: 1866234465
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000010 | SENT 01/31/2026 06:20 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000011
+Authorization #: A2026-000036
+Determination: DENIED
+Determination date: 01/31/2026 06:08
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000013 | SENT 02/02/2026 13:23 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000014
+Authorization #: A2026-000046
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 02/02/2026 13:01
+Review timeframe extended: No
+
+=== FAX PAGE FX-000015 | RECEIVED 02/04/2026 08:22 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M56047513      DOB: 08/20/1977
+Requesting Provider NPI: 1851516108
+Service / CPT: 70553  MRI brain with and without contrast
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000016 | RECEIVED 02/04/2026 09:26 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M67948745      DOB: 03/12/1948
+Requesting Provider NPI: 1833867405
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000011 | SENT 02/05/2026 06:09 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000012
+Authorization #: A2026-000041
+Determination: APPROVED
+Determination date: 02/05/2026 05:33
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000015 | SENT 02/05/2026 17:44 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000016
+Authorization #: A2026-000050
+Determination: APPROVED
+Determination date: 02/05/2026 17:12
+Review timeframe extended: No
+
+=== FAX PAGE FX-000017 | RECEIVED 02/06/2026 00:36 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M29092494      DOB: 08/20/1942
+Requesting Provider NPI: 1407692429
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000016 | SENT 02/06/2026 12:29 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000017
+Authorization #: A2026-000053
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 02/06/2026 12:12
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000014 | SENT 02/06/2026 17:00 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000015
+Authorization #: A2026-000049
+Determination: DENIED
+Determination date: 02/06/2026 16:44
+Review timeframe extended: No
+
+=== FAX PAGE FX-000018 | RECEIVED 02/16/2026 14:00 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M71856400      DOB: 03/28/1967
+Requesting Provider NPI: 1001285109
+Service / CPT: E0601  CPAP device
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000017 | SENT 02/17/2026 09:57 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000018
+Authorization #: A2026-000067
+Determination: APPROVED
+Determination date: 02/17/2026 09:50
+Review timeframe extended: No
+
+=== FAX PAGE FX-000019 | RECEIVED 02/17/2026 12:47 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M80769029      DOB: 10/07/1942
+Requesting Provider NPI: 1730228396
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000020 | RECEIVED 02/21/2026 07:57 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M87335836      DOB: 08/06/1991
+Requesting Provider NPI: 1168267247
+Service / CPT: 70553  MRI brain with and without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000018 | SENT 02/22/2026 02:18 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000019
+Authorization #: A2026-000069
+Determination: APPROVED
+Determination date: 02/22/2026 02:09
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000019 | SENT 02/22/2026 11:54 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000020
+Authorization #: A2026-000073
+Determination: DENIED
+Determination date: 02/22/2026 11:33
+Review timeframe extended: No
+
+=== FAX PAGE FX-000021 | RECEIVED 03/02/2026 17:11 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M56555894      DOB: 12/01/1979
+Requesting Provider NPI: 1639647654
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000020 | SENT 03/03/2026 02:37 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000021
+Authorization #: A2026-000082
+Determination: APPROVED
+Determination date: 03/03/2026 02:15
+Review timeframe extended: No
+
+=== FAX PAGE FX-000022 | RECEIVED 03/09/2026 15:35 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M10489557      DOB: 06/09/1973
+Requesting Provider NPI: 1511588703
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000021 | SENT 03/10/2026 17:14 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000022
+Authorization #: A2026-000087
+Determination: APPROVED
+Determination date: 03/10/2026 17:04
+Review timeframe extended: No
+
+=== FAX PAGE FX-000023 | RECEIVED 03/11/2026 09:40 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M28139613      DOB: 03/18/2008
+Requesting Provider NPI: 1421698345
+Service / CPT: 70553  MRI brain with and without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000024 | RECEIVED 03/11/2026 16:42 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M27156217      DOB: 10/02/2012
+Requesting Provider NPI: 1521444129
+Service / CPT: 73721  MRI knee without contrast
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000022 | SENT 03/13/2026 02:21 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000023
+Authorization #: A2026-000088
+Determination: DENIED
+Determination date: 03/13/2026 02:09
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000023 | SENT 03/15/2026 21:51 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000024
+Authorization #: A2026-000089
+Determination: APPROVED
+Determination date: 03/15/2026 21:13
+Review timeframe extended: No
+
+=== FAX PAGE FX-000025 | RECEIVED 03/16/2026 12:45 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M81352330      DOB: 05/19/1977
+Requesting Provider NPI: 1938230798
+Service / CPT: 73721  MRI knee without contrast
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000026 | RECEIVED 03/16/2026 19:20 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M33675266      DOB: 02/19/1959
+Requesting Provider NPI: 1223556386
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000025 | SENT 03/17/2026 09:57 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000026
+Authorization #: A2026-000096
+Determination: APPROVED
+Determination date: 03/17/2026 09:53
+Review timeframe extended: No
+
+=== FAX PAGE FX-000027 | RECEIVED 03/17/2026 18:23 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M29092494      DOB: 08/20/1942
+Requesting Provider NPI: 1721842684
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000024 | SENT 03/21/2026 15:52 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000025
+Authorization #: A2026-000094
+Determination: APPROVED
+Determination date: 03/21/2026 15:29
+Review timeframe extended: No
+
+=== FAX PAGE FX-000028 | RECEIVED 03/22/2026 19:58 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M87326921      DOB: 08/28/1983
+Requesting Provider NPI: 1642551174
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000027 | SENT 03/27/2026 00:18 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000028
+Authorization #: A2026-000105
+Determination: APPROVED
+Determination date: 03/27/2026 00:10
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000026 | SENT 03/29/2026 04:34 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000027
+Authorization #: A2026-000098
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 03/29/2026 04:24
+Review timeframe extended: No
+
+=== FAX PAGE FX-000029 | RECEIVED 04/02/2026 11:31 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M84382177      DOB: 12/26/2015
+Requesting Provider NPI: 1371235056
+Service / CPT: E0601  CPAP device
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000030 | RECEIVED 04/04/2026 18:34 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M25519849      DOB: 04/17/1962
+Requesting Provider NPI: 1082631940
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: [ ] Standard  [X] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000029 | SENT 04/05/2026 07:10 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000030
+Authorization #: A2026-000119
+Determination: APPROVED
+Determination date: 04/05/2026 06:33
+Review timeframe extended: No
+
+=== FAX PAGE FX-000031 | RECEIVED 04/05/2026 16:31 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M54072607      DOB: 04/23/2013
+Requesting Provider NPI: 1498726367
+Service / CPT: E0601  CPAP device
+Urgency: ( ) Standard  (X) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000030 | SENT 04/07/2026 20:16 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000031
+Authorization #: A2026-000121
+Determination: APPROVED
+Determination date: 04/07/2026 19:55
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000028 | SENT 04/08/2026 21:02 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000029
+Authorization #: A2026-000114
+Determination: APPROVED
+Determination date: 04/08/2026 20:26
+Review timeframe extended: No
+
+=== FAX PAGE FX-000032 | RECEIVED 04/14/2026 00:31 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M39838984      DOB: 09/13/1997
+Requesting Provider NPI: 1614557449
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000031 | SENT 04/17/2026 04:44 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000032
+Authorization #: A2026-000133
+Determination: APPROVED
+Determination date: 04/17/2026 04:11
+Review timeframe extended: No
+
+=== FAX PAGE FX-000033 | RECEIVED 05/02/2026 17:51 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M13486980      DOB: 08/06/1983
+Requesting Provider NPI: 1368509745
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000034 | RECEIVED 05/04/2026 13:14 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M20452317      DOB: 08/28/1980
+Requesting Provider NPI: 1354488326
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000033 | SENT 05/05/2026 14:00 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000034
+Authorization #: A2026-000147
+Determination: APPROVED
+Determination date: 05/05/2026 13:51
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000032 | SENT 05/05/2026 21:46 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000033
+Authorization #: A2026-000143
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 05/05/2026 21:09
+Review timeframe extended: No
+
+=== FAX PAGE FX-000035 | RECEIVED 05/11/2026 13:46 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M52929196      DOB: 02/05/1981
+Requesting Provider NPI: 1843536503
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000036 | RECEIVED 05/13/2026 22:17 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M52929196      DOB: 02/05/1981
+Requesting Provider NPI: 1456863095
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000034 | SENT 05/16/2026 01:48 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000035
+Authorization #: A2026-000153
+Determination: APPROVED
+Determination date: 05/16/2026 01:12
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000035 | SENT 05/17/2026 18:16 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000036
+Authorization #: A2026-000155
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 05/17/2026 18:05
+Review timeframe extended: No
+
+=== FAX PAGE FX-000037 | RECEIVED 05/26/2026 11:24 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M35743113      DOB: 03/06/1961
+Requesting Provider NPI: 1895810046
+Service / CPT: 70553  MRI brain with and without contrast
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000038 | RECEIVED 05/26/2026 21:45 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M17265952      DOB: 01/21/1967
+Requesting Provider NPI: 1836887038
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000036 | SENT 05/28/2026 02:16 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000038
+Authorization #: A2026-000165
+Determination: APPROVED
+Determination date: 05/28/2026 01:46
+Review timeframe extended: No
+
+=== FAX PAGE FX-000039 | RECEIVED 05/30/2026 14:36 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M19020809      DOB: 05/01/1991
+Requesting Provider NPI: 1407692429
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000037 | SENT 05/31/2026 15:21 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000039
+Authorization #: A2026-000168
+Determination: APPROVED
+Determination date: 05/31/2026 14:52
+Review timeframe extended: No
+
+=== FAX PAGE FX-000040 | RECEIVED 06/03/2026 17:55 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M44721140      DOB: 04/14/1964
+Requesting Provider NPI: 1836887038
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000038 | SENT 06/06/2026 04:02 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000040
+Authorization #: A2026-000170
+Determination: APPROVED
+Determination date: 06/06/2026 03:36
+Review timeframe extended: No
+
+=== FAX PAGE FX-000041 | RECEIVED 06/10/2026 07:44 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M22124816      DOB: 10/11/2004
+Requesting Provider NPI: 1229161611
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000042 | RECEIVED 06/11/2026 18:27 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M51800971      DOB: 10/06/1948
+Requesting Provider NPI: 1082631940
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000040 | SENT 06/12/2026 01:09 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000042
+Authorization #: A2026-000182
+Determination: DENIED
+Determination date: 06/12/2026 01:04
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000039 | SENT 06/14/2026 09:23 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000041
+Authorization #: A2026-000178
+Determination: APPROVED
+Determination date: 06/14/2026 08:54
+Review timeframe extended: No
+
+=== FAX PAGE FX-000044 | RECEIVED 06/21/2026 00:03 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M45597178      DOB: 10/17/2010
+Requesting Provider NPI: 1315949903
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000045 | RECEIVED 06/22/2026 15:44 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M39748538      DOB: 01/27/1999
+Requesting Provider NPI: 1223576392
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000046 | RECEIVED 06/22/2026 15:46 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M49576305      DOB: 08/10/1946
+Requesting Provider NPI: 1229161611
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000043 | RECEIVED 06/22/2026 21:04 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M36154631      DOB: 01/09/1950
+Requesting Provider NPI: 1295526796
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000044 | SENT 06/22/2026 20:51 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000046
+Authorization #: A2026-000202
+Determination: APPROVED
+Determination date: 06/22/2026 20:41
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000043 | SENT 06/23/2026 15:54 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000045
+Authorization #: A2026-000200
+Determination: APPROVED
+Determination date: 06/23/2026 15:36
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000041 | SENT 06/25/2026 08:57 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000043
+Authorization #: A2026-000193
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 06/25/2026 08:36
+Review timeframe extended: No
+
+=== FAX PAGE FX-000047 | RECEIVED 06/28/2026 17:03 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M84579814      DOB: 09/20/1948
+Requesting Provider NPI: 1181988860
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000042 | SENT 06/29/2026 20:25 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000044
+Authorization #: A2026-000197
+Determination: APPROVED
+Determination date: 06/29/2026 20:14
+Review timeframe extended: No
+
+=== FAX PAGE FX-000049 | RECEIVED 06/30/2026 15:22 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M77576415      DOB: 07/25/2009
+Requesting Provider NPI: 1575997873
+Service / CPT: E0601  CPAP device
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000048 | RECEIVED 07/01/2026 05:59 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M86762753      DOB: 12/11/1962
+Requesting Provider NPI: 1313409462
+Service / CPT: E0601  CPAP device
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000046 | SENT 07/02/2026 16:36 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000048
+Authorization #: A2026-000215
+Determination: APPROVED
+Determination date: 07/02/2026 16:07
+Review timeframe extended: No
+
+=== FAX PAGE FX-000050 | RECEIVED 07/02/2026 17:43 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M68716608      DOB: 10/17/1995
+Requesting Provider NPI: 1428839405
+Service / CPT: 73721  MRI knee without contrast
+Urgency: [ ] Standard  [X] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000051 | RECEIVED 07/03/2026 17:22 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M77576415      DOB: 07/25/2009
+Requesting Provider NPI: 1030848638
+Service / CPT: E0601  CPAP device
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000048 | SENT 07/03/2026 18:13 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000050
+Authorization #: A2026-000218
+Determination: APPROVED
+Determination date: 07/03/2026 18:01
+Review timeframe extended: No
+
+=== FAX PAGE FX-000052 | RECEIVED 07/04/2026 08:59 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M39042973      DOB: 07/13/1945
+Requesting Provider NPI: 1988834242
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: [ ] Standard  [X] Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000050 | SENT 07/05/2026 00:29 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000052
+Authorization #: A2026-000221
+Determination: APPROVED
+Determination date: 07/05/2026 00:13
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000049 | SENT 07/05/2026 12:59 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000051
+Authorization #: A2026-000220
+Determination: APPROVED
+Determination date: 07/05/2026 12:28
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000045 | SENT 07/06/2026 01:24 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000047
+Authorization #: A2026-000212
+Determination: DENIED
+Determination date: 07/06/2026 01:02
+Review timeframe extended: Yes
+
+=== FAX PAGE FX-000054 | RECEIVED 07/06/2026 17:19 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M80700943      DOB: 05/23/1998
+Requesting Provider NPI: 1740154079
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000053 | RECEIVED 07/07/2026 10:28 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M52443864      DOB: 12/09/1966
+Requesting Provider NPI: 1086499021
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000051 | SENT 07/09/2026 01:03 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000053
+Authorization #: A2026-000225
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 07/09/2026 00:49
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000047 | SENT 07/10/2026 09:59 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000049
+Authorization #: A2026-000216
+Determination: APPROVED
+Determination date: 07/10/2026 09:36
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000052 | SENT 07/11/2026 01:23 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000054
+Authorization #: A2026-000226
+Determination: APPROVED
+Determination date: 07/11/2026 00:46
+Review timeframe extended: No
+
+=== FAX PAGE FX-000056 | RECEIVED 07/14/2026 18:44 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M20877825      DOB: 07/27/2006
+Requesting Provider NPI: 1973153517
+Service / CPT: 72148  MRI lumbar spine without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000055 | RECEIVED 07/15/2026 05:58 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M56047513      DOB: 08/20/1977
+Requesting Provider NPI: 1851516108
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000057 | RECEIVED 07/15/2026 19:11 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M11533844      DOB: 12/19/2008
+Requesting Provider NPI: 1618960607
+Service / CPT: 70553  MRI brain with and without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000058 | RECEIVED 07/17/2026 16:05 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M40138213      DOB: 08/09/1947
+Requesting Provider NPI: 1575997873
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000055 | SENT 07/18/2026 00:57 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000058
+Authorization #: A2026-000240
+Determination: APPROVED
+Determination date: 07/18/2026 00:23
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000054 | SENT 07/21/2026 07:04 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000057
+Authorization #: A2026-000237
+Determination: APPROVED
+Determination date: 07/21/2026 06:46
+Review timeframe extended: No
+
+=== FAX PAGE FX-000060 | RECEIVED 07/21/2026 14:12 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M72224076      DOB: 10/14/1957
+Requesting Provider NPI: 1107016523
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000057 | SENT 07/21/2026 18:47 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000060
+Authorization #: A2026-000246
+Determination: APPROVED
+Determination date: 07/21/2026 18:21
+Review timeframe extended: No
+
+=== FAX PAGE FX-000059 | RECEIVED 07/22/2026 18:38 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M20421385      DOB: 01/25/1991
+Requesting Provider NPI: 1575997873
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000061 | RECEIVED 07/23/2026 12:02 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M37448411      DOB: 01/18/2006
+Requesting Provider NPI: 1181988860
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000062 | RECEIVED 07/24/2026 10:07 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M50962015      DOB: 03/10/1996
+Requesting Provider NPI: 1405954425
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000059 | SENT 07/25/2026 06:09 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000062
+Authorization #: A2026-000251
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 07/25/2026 05:31
+Review timeframe extended: No
+
+=== FAX PAGE FX-000063 | RECEIVED 07/25/2026 15:03 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M52528051      DOB: 03/01/1941
+Requesting Provider NPI: 1354252938
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000060 | SENT 07/27/2026 08:04 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000063
+Authorization #: A2026-000252
+Determination: APPROVED
+Determination date: 07/27/2026 08:02
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000056 | SENT 07/27/2026 16:25 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000059
+Authorization #: A2026-000244
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 07/27/2026 15:55
+Review timeframe extended: No
+
+=== FAX PAGE FX-000064 | RECEIVED 07/31/2026 12:02 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M74571672      DOB: 12/24/1989
+Requesting Provider NPI: 1200335622
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000053 | SENT 08/01/2026 05:21 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000056
+Authorization #: A2026-000234
+Determination: APPROVED
+Determination date: 08/01/2026 04:53
+Review timeframe extended: Yes
+
+=== FAX PAGE FX-N-000061 | SENT 08/02/2026 16:10 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000064
+Authorization #: A2026-000253
+Determination: APPROVED
+Determination date: 08/02/2026 15:32
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000058 | SENT 08/04/2026 15:26 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000061
+Authorization #: A2026-000249
+Determination: APPROVED
+Determination date: 08/04/2026 15:12
+Review timeframe extended: No
+
+=== FAX PAGE FX-000065 | RECEIVED 08/06/2026 08:40 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M38470932      DOB: 06/13/2003
+Requesting Provider NPI: 1428412815
+Service / CPT: 72148  MRI lumbar spine without contrast
+Urgency: ( ) Standard  (X) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000062 | SENT 08/06/2026 21:11 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000065
+Authorization #: A2026-000260
+Determination: APPROVED
+Determination date: 08/06/2026 20:34
+Review timeframe extended: No
+
+=== FAX PAGE FX-000066 | RECEIVED 08/13/2026 15:08 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M81815942      DOB: 01/09/1989
+Requesting Provider NPI: 1234820839
+Service / CPT: 27447  Total knee arthroplasty
+Urgency: [ ] Standard  [X] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-000067 | RECEIVED 08/15/2026 17:41 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M54509712      DOB: 07/28/1951
+Requesting Provider NPI: 1895471815
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000068 | RECEIVED 08/17/2026 08:40 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M10281828      DOB: 12/26/2010
+Requesting Provider NPI: 1223556386
+Service / CPT: E0601  CPAP device
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000063 | SENT 08/17/2026 16:48 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000066
+Authorization #: A2026-000268
+Determination: APPROVED
+Determination date: 08/17/2026 16:26
+Review timeframe extended: Yes
+
+=== FAX PAGE FX-N-000064 | SENT 08/20/2026 05:41 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000067
+Authorization #: A2026-000271
+Determination: APPROVED
+Determination date: 08/20/2026 05:35
+Review timeframe extended: No
+
+=== FAX PAGE FX-000069 | RECEIVED 08/20/2026 08:22 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M21365326      DOB: 05/08/2008
+Requesting Provider NPI: 1168267247
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000065 | SENT 08/20/2026 22:31 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000068
+Authorization #: A2026-000274
+Determination: APPROVED
+Determination date: 08/20/2026 22:10
+Review timeframe extended: No
+
+=== FAX PAGE FX-000070 | RECEIVED 08/23/2026 12:07 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M26214552      DOB: 08/10/1950
+Requesting Provider NPI: 1527595056
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000067 | SENT 08/24/2026 02:44 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000070
+Authorization #: A2026-000281
+Determination: APPROVED
+Determination date: 08/24/2026 02:17
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000066 | SENT 08/25/2026 07:15 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000069
+Authorization #: A2026-000277
+Determination: APPROVED
+Determination date: 08/25/2026 07:04
+Review timeframe extended: No
+
+=== FAX PAGE FX-000071 | RECEIVED 09/07/2026 19:57 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M91396291      DOB: 03/27/1980
+Requesting Provider NPI: 1536615853
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000068 | SENT 09/08/2026 08:56 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000071
+Authorization #: A2026-000295
+Determination: APPROVED
+Determination date: 09/08/2026 08:39
+Review timeframe extended: No
+
+=== FAX PAGE FX-000072 | RECEIVED 09/09/2026 08:24 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M27865613      DOB: 01/27/2002
+Requesting Provider NPI: 1554614697
+Service / CPT: 70553  MRI brain with and without contrast
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000073 | RECEIVED 09/12/2026 09:36 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M24223270      DOB: 07/19/1961
+Requesting Provider NPI: 1575997873
+Service / CPT: 72148  MRI lumbar spine without contrast
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000070 | SENT 09/14/2026 09:11 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000073
+Authorization #: A2026-000300
+Determination: APPROVED
+Determination date: 09/14/2026 08:38
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000069 | SENT 09/15/2026 22:12 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000072
+Authorization #: A2026-000298
+Determination: APPROVED
+Determination date: 09/15/2026 21:33
+Review timeframe extended: No
+
+=== FAX PAGE FX-000074 | RECEIVED 09/18/2026 08:54 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M28049514      DOB: 07/25/1996
+Requesting Provider NPI: 1128844994
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000071 | SENT 09/18/2026 16:09 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000074
+Authorization #: A2026-000310
+Determination: APPROVED
+Determination date: 09/18/2026 15:37
+Review timeframe extended: No
+
+=== FAX PAGE FX-000075 | RECEIVED 09/23/2026 11:07 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M66698498      DOB: 11/19/1943
+Requesting Provider NPI: 1354488326
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000072 | SENT 09/24/2026 11:09 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000075
+Authorization #: A2026-000319
+Determination: APPROVED
+Determination date: 09/24/2026 10:35
+Review timeframe extended: No
+
+=== FAX PAGE FX-000076 | RECEIVED 09/25/2026 16:12 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M61773736      DOB: 08/04/1998
+Requesting Provider NPI: 1384944033
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000073 | SENT 09/26/2026 11:10 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000076
+Authorization #: A2026-000322
+Determination: APPROVED
+Determination date: 09/26/2026 10:45
+Review timeframe extended: No
+
+=== FAX PAGE FX-000077 | RECEIVED 09/27/2026 18:06 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M66983088      DOB: 01/06/1947
+Requesting Provider NPI: 1332968753
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000074 | SENT 09/28/2026 12:16 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000077
+Authorization #: A2026-000324
+Determination: APPROVED
+Determination date: 09/28/2026 12:11
+Review timeframe extended: No
+
+=== FAX PAGE FX-000078 | RECEIVED 10/02/2026 07:31 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M48901408      DOB: 05/19/1967
+Requesting Provider NPI: 1556277857
+Service / CPT: 72148  MRI lumbar spine without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000079 | RECEIVED 10/11/2026 16:12 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M13203304      DOB: 11/19/1977
+Requesting Provider NPI: 1673586164
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000075 | SENT 10/12/2026 09:20 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000078
+Authorization #: A2026-000326
+Determination: APPROVED
+Determination date: 10/12/2026 09:17
+Review timeframe extended: Yes
+
+=== FAX PAGE FX-000080 | RECEIVED 10/13/2026 10:53 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M90261421      DOB: 02/17/1998
+Requesting Provider NPI: 1128844994
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000076 | SENT 10/14/2026 14:47 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000079
+Authorization #: A2026-000334
+Determination: APPROVED
+Determination date: 10/14/2026 14:42
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000077 | SENT 10/25/2026 10:33 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000080
+Authorization #: A2026-000336
+Determination: APPROVED
+Determination date: 10/25/2026 10:01
+Review timeframe extended: No
+
+=== FAX PAGE FX-000081 | RECEIVED 10/25/2026 14:16 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M93663808      DOB: 02/18/1953
+Requesting Provider NPI: 1050934060
+Service / CPT: 72148  MRI lumbar spine without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000082 | RECEIVED 10/30/2026 01:16 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M93663808      DOB: 02/18/1953
+Requesting Provider NPI: 1833867405
+Service / CPT: 72148  MRI lumbar spine without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000083 | RECEIVED 10/30/2026 08:16 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M13187162      DOB: 04/03/1982
+Requesting Provider NPI: 1988834242
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000078 | SENT 10/30/2026 16:32 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000081
+Authorization #: A2026-000346
+Determination: APPROVED
+Determination date: 10/30/2026 16:09
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000080 | SENT 10/30/2026 23:50 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000083
+Authorization #: A2026-000355
+Determination: DENIED
+Determination date: 10/30/2026 23:33
+Review timeframe extended: No
+
+=== FAX PAGE FX-000084 | RECEIVED 10/31/2026 14:56 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M17265952      DOB: 01/21/1967
+Requesting Provider NPI: 1836887038
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000079 | SENT 10/31/2026 16:14 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000082
+Authorization #: A2026-000353
+Determination: DENIED
+Determination date: 10/31/2026 15:44
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000081 | SENT 11/01/2026 14:00 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000084
+Authorization #: A2026-000358
+Determination: WITHDRAWN BY PROVIDER
+Determination date: 11/01/2026 13:56
+Review timeframe extended: No
+
+=== FAX PAGE FX-000085 | RECEIVED 11/02/2026 13:41 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M92163523      DOB: 08/04/1981
+Requesting Provider NPI: 1673586164
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000082 | SENT 11/03/2026 12:07 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000085
+Authorization #: A2026-000359
+Determination: APPROVED
+Determination date: 11/03/2026 11:44
+Review timeframe extended: No
+
+=== FAX PAGE FX-000086 | RECEIVED 11/08/2026 10:15 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M62593738      DOB: 01/14/1959
+Requesting Provider NPI: 1175209646
+Service / CPT: 73721  MRI knee without contrast
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000087 | RECEIVED 11/08/2026 20:07 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M52349992      DOB: 05/10/1996
+Requesting Provider NPI: 1360331502
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000084 | SENT 11/09/2026 11:34 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000087
+Authorization #: A2026-000364
+Determination: DENIED
+Determination date: 11/09/2026 11:26
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000083 | SENT 11/11/2026 11:51 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000086
+Authorization #: A2026-000362
+Determination: DENIED
+Determination date: 11/11/2026 11:36
+Review timeframe extended: No
+
+=== FAX PAGE FX-000088 | RECEIVED 11/12/2026 08:41 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M90015564      DOB: 12/16/2015
+Requesting Provider NPI: 1128844994
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000089 | RECEIVED 11/15/2026 09:42 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M96416370      DOB: 07/11/1962
+Requesting Provider NPI: 1784160628
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000090 | RECEIVED 11/16/2026 11:04 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M80562423      DOB: 05/10/1943
+Requesting Provider NPI: 1428839405
+Service / CPT: 43239  Upper GI endoscopy with biopsy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000085 | SENT 11/16/2026 23:51 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000088
+Authorization #: A2026-000373
+Determination: APPROVED
+Determination date: 11/16/2026 23:44
+Review timeframe extended: No
+
+=== FAX PAGE FX-000091 | RECEIVED 11/17/2026 09:46 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M26170934      DOB: 01/13/1970
+Requesting Provider NPI: 1715927277
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000087 | SENT 11/17/2026 22:51 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000090
+Authorization #: A2026-000379
+Determination: APPROVED
+Determination date: 11/17/2026 22:15
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000086 | SENT 11/19/2026 10:29 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000089
+Authorization #: A2026-000378
+Determination: APPROVED
+Determination date: 11/19/2026 10:27
+Review timeframe extended: No
+
+=== FAX PAGE FX-000092 | RECEIVED 11/19/2026 20:03 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M52666101      DOB: 08/21/1945
+Requesting Provider NPI: 1196726636
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000088 | SENT 11/20/2026 01:28 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000091
+Authorization #: A2026-000381
+Determination: APPROVED
+Determination date: 11/20/2026 01:03
+Review timeframe extended: No
+
+=== FAX PAGE FX-000093 | RECEIVED 11/20/2026 21:07 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M52443864      DOB: 12/09/1966
+Requesting Provider NPI: 1200335622
+Service / CPT: E0601  CPAP device
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000090 | SENT 11/21/2026 04:49 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000093
+Authorization #: A2026-000385
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 11/21/2026 04:22
+Review timeframe extended: No
+
+=== FAX PAGE FX-000094 | RECEIVED 11/21/2026 16:29 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M88265447      DOB: 02/08/1974
+Requesting Provider NPI: 1378706182
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-000095 | RECEIVED 11/23/2026 21:29 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M88265447      DOB: 02/08/1974
+Requesting Provider NPI: 1128844994
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000091 | SENT 11/24/2026 04:03 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000094
+Authorization #: A2026-000388
+Determination: DENIED
+Determination date: 11/24/2026 03:43
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000089 | SENT 11/24/2026 13:29 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000092
+Authorization #: A2026-000383
+Determination: APPROVED
+Determination date: 11/24/2026 13:04
+Review timeframe extended: No
+
+=== FAX PAGE FX-000096 | RECEIVED 11/26/2026 17:21 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M26214552      DOB: 08/10/1950
+Requesting Provider NPI: 1527595056
+Service / CPT: 93306  Echocardiogram, complete
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000093 | SENT 11/29/2026 06:14 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000096
+Authorization #: A2026-000394
+Determination: APPROVED
+Determination date: 11/29/2026 05:57
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000092 | SENT 12/02/2026 07:53 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000095
+Authorization #: A2026-000391
+Determination: APPROVED
+Determination date: 12/02/2026 07:33
+Review timeframe extended: Yes
+
+=== FAX PAGE FX-000097 | RECEIVED 12/03/2026 10:22 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M12813789      DOB: 06/22/1953
+Requesting Provider NPI: 1978395881
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+Urgency: ( ) Standard  (X) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000094 | SENT 12/04/2026 10:38 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000097
+Authorization #: A2026-000400
+Determination: APPROVED
+Determination date: 12/04/2026 10:34
+Review timeframe extended: No
+
+=== FAX PAGE FX-000098 | RECEIVED 12/07/2026 14:00 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M64049403      DOB: 07/28/1941
+Requesting Provider NPI: 1678760517
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-000099 | RECEIVED 12/08/2026 09:23 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M63418417      DOB: 11/09/1978
+Requesting Provider NPI: 1784160628
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000095 | SENT 12/09/2026 08:12 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000098
+Authorization #: A2026-000402
+Determination: APPROVED
+Determination date: 12/09/2026 07:35
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000096 | SENT 12/09/2026 08:12 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000099
+Authorization #: A2026-000404
+Determination: APPROVED
+Determination date: 12/09/2026 07:42
+Review timeframe extended: No
+
+=== FAX PAGE FX-000100 | RECEIVED 12/10/2026 15:43 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M41613859      DOB: 06/01/1944
+Requesting Provider NPI: 1915586998
+Service / CPT: 95810  Attended polysomnography (sleep study)
+Urgency: ( ) Standard  (X) Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-N-000097 | SENT 12/11/2026 19:02 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000100
+Authorization #: A2026-000408
+Determination: APPROVED
+Determination date: 12/11/2026 18:28
+Review timeframe extended: No
+
+=== FAX PAGE FX-000101 | RECEIVED 12/17/2026 16:43 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M50962015      DOB: 03/10/1996
+Requesting Provider NPI: 1137160671
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+URGENT - EXPEDITED REVIEW REQUESTED
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000098 | SENT 12/18/2026 16:27 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000101
+Authorization #: A2026-000414
+Determination: DENIED
+Determination date: 12/18/2026 16:14
+Review timeframe extended: No
+
+=== FAX PAGE FX-000102 | RECEIVED 12/18/2026 16:50 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M63666253      DOB: 01/10/1959
+Requesting Provider NPI: 1223556386
+Service / CPT: 97110  Physical therapy, therapeutic exercise
+Urgency: [X] Standard  [ ] Expedited
+Clinical notes: Per specialist recommendation.
+
+=== FAX PAGE FX-000103 | RECEIVED 12/24/2026 11:27 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M37911190      DOB: 03/22/1996
+Requesting Provider NPI: 1725849842
+Service / CPT: 63030  Lumbar laminotomy, single interspace
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Follow-up to prior imaging.
+
+=== FAX PAGE FX-N-000099 | SENT 12/24/2026 23:33 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000102
+Authorization #: A2026-000418
+Determination: APPROVED
+Determination date: 12/24/2026 23:21
+Review timeframe extended: No
+
+=== FAX PAGE FX-000104 | RECEIVED 12/26/2026 12:08 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M51042140      DOB: 11/08/1944
+Requesting Provider NPI: 1050934060
+Service / CPT: 29881  Knee arthroscopy with meniscectomy
+Urgency: (x) Standard  ( ) Expedited
+Clinical notes: Progressive symptoms, see attached.
+
+=== FAX PAGE FX-N-000100 | SENT 12/26/2026 18:44 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000103
+Authorization #: A2026-000424
+Determination: DENIED
+Determination date: 12/26/2026 18:10
+Review timeframe extended: No
+
+=== FAX PAGE FX-N-000101 | SENT 12/27/2026 17:00 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000104
+Authorization #: A2026-000426
+Determination: APPROVED
+Determination date: 12/27/2026 16:33
+Review timeframe extended: No
+
+=== FAX PAGE FX-000105 | RECEIVED 12/30/2026 08:51 ===
+PRIOR AUTHORIZATION REQUEST FORM
+Member ID: M87335836      DOB: 08/06/1991
+Requesting Provider NPI: 1223786488
+Service / CPT: 78815  PET/CT skull base to mid-thigh
+Urgency: [ ] Standard  [X] Expedited
+Clinical notes: Failed 6 wks conservative tx.
+
+=== FAX PAGE FX-N-000102 | SENT 01/01/2027 22:17 ===
+NOTICE OF PRIOR AUTHORIZATION DETERMINATION
+RE: Your fax FX-000105
+Authorization #: A2026-000430
+Determination: CLOSED - DUPLICATE REQUEST
+Determination date: 01/01/2027 22:11
+Review timeframe extended: No

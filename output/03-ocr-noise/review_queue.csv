@@ -1,0 +1,3 @@
+type,case_id,records,message
+low-confidence,C00099,fax:FX-000043,"fax:FX-000043 parsed with low confidence: member ID repaired from ""M6B0121G0""; NPI ""1494766018"" failed checksum, ignored for matching; service code unreadable"
+low-confidence,C00298,fax:FX-000143,"fax:FX-000143 parsed with low confidence: NPI ""1103691987"" failed checksum, ignored for matching; service code unreadable"

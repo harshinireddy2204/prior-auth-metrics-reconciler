@@ -1,0 +1,29 @@
+{
+  "name": "prior-auth-metrics-reconciler",
+  "version": "0.1.0",
+  "description": "Reconciles prior authorization requests across fax, portal, phone and FHIR channels and computes CMS-0057-F metrics with full lineage",
+  "scripts": {
+    "generate": "tsx src/cli.ts generate",
+    "reconcile": "tsx src/cli.ts reconcile",
+    "demo": "tsx src/cli.ts all",
+    "explain": "tsx src/cli.ts explain",
+    "test": "tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc -p tsconfig.build.json",
+    "mcp": "tsx src/mcp/server.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "scenario": "05-appeals-extensions",
+  "year": 2026,
+  "counts": {
+    "records": 589,
+    "submissions": 432,
+    "decisionRecords": 157,
+    "inquiries": 0,
+    "appeals": 64,
+    "cases": 356,
+    "reviewItems": 0,
+    "faxLlmCalls": 0,
+    "utcYearShift": 0
+  },
+  "reconciled": {
+    "year": 2026,
+    "basis": "decision",
+    "metrics": [
+      {
+        "key": "standard.total",
+        "label": "Standard requests determined",
+        "unit": "count",
+        "value": 280,
+        "definition": "Standard requests with an approve or deny determination in 2026",
+        "n_ids": 280
+      },
+      {
+        "key": "standard.approvedPct",
+        "label": "Standard: % approved",
+        "unit": "%",
+        "value": 75.7,
+        "numerator": 212,
+        "denominator": 280,
+        "definition": "Approved / all determined requests of this type",
+        "n_ids": 212
+      },
+      {
+        "key": "standard.deniedPct",
+        "label": "Standard: % denied",
+        "unit": "%",
+        "value": 24.3,
+        "numerator": 68,
+        "denominator": 280,
+        "definition": "Denied / all determined requests of this type",
+        "n_ids": 68
+      },
+      {
+        "key": "standard.approvedAfterAppealPct",
+        "label": "Standard: % approved after appeal",
+        "unit": "%",
+        "value": 47.2,
+        "numerator": 25,
+        "denominator": 53,
+        "definition": "Appeals overturned / appeals of standard requests decided in 2026",
+        "n_ids": 25
+      },
+      {
+        "key": "standard.meanHours",
+        "label": "Standard: mean hours to decision",
+        "unit": "hours",
+        "value": 129.5,
+        "definition": "Mean of (determination time minus payer receipt time); receipt is the earliest receipt across channels",
+        "n_ids": 280
+      },
+      {
+        "key": "standard.medianHours",
+        "label": "Standard: median hours to decision",
+        "unit": "hours",
+        "value": 96.2,
+        "definition": "Median of (determination time minus payer receipt time)",
+        "n_ids": 280
+      },
+      {
+        "key": "standard.withinTimeframePct",
+        "label": "Standard: % decided within 7 days",
+        "unit": "%",
+        "value": 68.9,
+        "numerator": 193,
+        "denominator": 280,
+        "definition": "Optional sub-metric: share determined inside the regulatory timeframe",
+        "n_ids": 193
+      },
+      {
+        "key": "expedited.total",
+        "label": "Expedited requests determined",
+        "unit": "count",
+        "value": 63,
+        "definition": "Expedited requests with an approve or deny determination in 2026",
+        "n_ids": 63
+      },
+      {
+        "key": "expedited.approvedPct",
+        "label": "Expedited: % approved",
+        "unit": "%",
+        "value": 77.8,
+        "numerator": 49,
+        "denominator": 63,
+        "definition": "Approved / all determined requests of this type",
+        "n_ids": 49
+      },
+      {
+        "key": "expedited.deniedPct",
+        "label": "Expedited: % denied",
+        "unit": "%",
+        "value": 22.2,
+        "numerator": 14,
+        "denominator": 63,
+        "definition": "Denied / all determined requests of this type",
+        "n_ids": 14
+      },
+      {
+        "key": "expedited.approvedAfterAppealPct",
+        "label": "Expedited: % approved after appeal",
+        "unit": "%",
+        "value": 27.3,
+        "numerator": 3,
+        "denominator": 11,
+        "definition": "Appeals overturned / appeals of expedited requests decided in 2026 (optional for expedited)",
+        "n_ids": 3
+      },
+      {
+        "key": "expedited.meanHours",
+        "label": "Expedited: mean hours to decision",
+        "unit": "hours",
+        "value": 90.5,
+        "definition": "Mean of (determination time minus payer receipt time); receipt is the earliest receipt across channels",
+        "n_ids": 63
+      },
+      {
+        "key": "expedited.medianHours",
+        "label": "Expedited: median hours to decision",
+        "unit": "hours",
+        "value": 35.6,
+        "definition": "Median of (determination time minus payer receipt time)",
+        "n_ids": 63
+      },
+      {
+        "key": "expedited.withinTimeframePct",
+        "label": "Expedited: % decided within 72 hours",
+        "unit": "%",
+        "value": 61.9,
+        "numerator": 39,
+        "denominator": 63,
+        "definition": "Optional sub-metric: share determined inside the regulatory timeframe",
+        "n_ids": 39
+      },
+      {
+        "key": "all.extendedApprovedPct",
+        "label": "All: % with review timeframe extended and approved",
+        "unit": "%",
+        "value": 23,
+        "numerator": 79,
+        "denominator": 343,
+        "definition": "Requests extended and approved / all determined requests",
+        "n_ids": 79
+      },
+      {
+        "key": "excluded.withdrawn",
+        "label": "Excluded: withdrawn by provider",
+        "unit": "count",
+        "value": 10,
+        "definition": "Withdrawn requests received in 2026",
+        "n_ids": 10
+      },
+      {
+        "key": "excluded.pending",
+        "label": "Excluded: no determination at export",
+        "unit": "count",
+        "value": 0,
+        "definition": "Requests with no determination in the data (still open, or the decision record is missing)",
+        "n_ids": 0
+      }
+    ]
+  },
+  "naive": {
+    "year": 2026,
+    "basis": "decision",
+    "metrics": [
+      {
+        "key": "standard.total",
+        "label": "Standard requests determined",
+        "unit": "count",
+        "value": 307,
+        "definition": "Standard requests with an approve or deny determination in 2026",
+        "n_ids": 307
+      },
+      {
+        "key": "standard.approvedPct",
+        "label": "Standard: % approved",
+        "unit": "%",
+        "value": 75.6,
+        "numerator": 232,
+        "denominator": 307,
+        "definition": "Approved / all determined requests of this type",
+        "n_ids": 232
+      },
+      {
+        "key": "standard.deniedPct",
+        "label": "Standard: % denied",
+        "unit": "%",
+        "value": 24.4,
+        "numerator": 75,
+        "denominator": 307,
+        "definition": "Denied / all determined requests of this type",
+        "n_ids": 75
+      },
+      {
+        "key": "standard.approvedAfterAppealPct",
+        "label": "Standard: % approved after appeal",
+        "unit": "%",
+        "value": 47.2,
+        "numerator": 25,
+        "denominator": 53,
+        "definition": "Appeals overturned / appeals of standard requests decided in 2026",
+        "n_ids": 25
+      },
+      {
+        "key": "standard.meanHours",
+        "label": "Standard: mean hours to decision",
+        "unit": "hours",
+        "value": 126.3,
+        "definition": "Mean of (determination time minus payer receipt time); receipt is the earliest receipt across channels",
+        "n_ids": 307
+      },
+      {
+        "key": "standard.medianHours",
+        "label": "Standard: median hours to decision",
+        "unit": "hours",
+        "value": 95.7,
+        "definition": "Median of (determination time minus payer receipt time)",
+        "n_ids": 307
+      },
+      {
+        "key": "standard.withinTimeframePct",
+        "label": "Standard: % decided within 7 days",
+        "unit": "%",
+        "value": 70.4,
+        "numerator": 216,
+        "denominator": 307,
+        "definition": "Optional sub-metric: share determined inside the regulatory timeframe",
+        "n_ids": 216
+      },
+      {
+        "key": "expedited.total",
+        "label": "Expedited requests determined",
+        "unit": "count",
+        "value": 65,
+        "definition": "Expedited requests with an approve or deny determination in 2026",
+        "n_ids": 65
+      },
+      {
+        "key": "expedited.approvedPct",
+        "label": "Expedited: % approved",
+        "unit": "%",
+        "value": 78.5,
+        "numerator": 51,
+        "denominator": 65,
+        "definition": "Approved / all determined requests of this type",
+        "n_ids": 51
+      },
+      {
+        "key": "expedited.deniedPct",
+        "label": "Expedited: % denied",
+        "unit": "%",
+        "value": 21.5,
+        "numerator": 14,
+        "denominator": 65,
+        "definition": "Denied / all determined requests of this type",
+        "n_ids": 14
+      },
+      {
+        "key": "expedited.approvedAfterAppealPct",
+        "label": "Expedited: % approved after appeal",
+        "unit": "%",
+        "value": 27.3,
+        "numerator": 3,
+        "denominator": 11,
+        "definition": "Appeals overturned / appeals of expedited requests decided in 2026 (optional for expedited)",
+        "n_ids": 3
+      },
+      {
+        "key": "expedited.meanHours",
+        "label": "Expedited: mean hours to decision",
+        "unit": "hours",
+        "value": 89.1,
+        "definition": "Mean of (determination time minus payer receipt time); receipt is the earliest receipt across channels",
+        "n_ids": 65
+      },
+      {
+        "key": "expedited.medianHours",
+        "label": "Expedited: median hours to decision",
+        "unit": "hours",
+        "value": 35.6,
+        "definition": "Median of (determination time minus payer receipt time)",
+        "n_ids": 65
+      },
+      {
+        "key": "expedited.withinTimeframePct",
+        "label": "Expedited: % decided within 72 hours",
+        "unit": "%",
+        "value": 61.5,
+        "numerator": 40,
+        "denominator": 65,
+        "definition": "Optional sub-metric: share determined inside the regulatory timeframe",
+        "n_ids": 40
+      },
+      {
+        "key": "all.extendedApprovedPct",
+        "label": "All: % with review timeframe extended and approved",
+        "unit": "%",
+        "value": 21.2,
+        "numerator": 79,
+        "denominator": 372,
+        "definition": "Requests extended and approved / all determined requests",
+        "n_ids": 79
+      },
+      {
+        "key": "excluded.withdrawn",
+        "label": "Excluded: withdrawn by provider",
+        "unit": "count",
+        "value": 10,
+        "definition": "Withdrawn requests received in 2026",
+        "n_ids": 10
+      },
+      {
+        "key": "excluded.pending",
+        "label": "Excluded: no determination at export",
+        "unit": "count",
+        "value": 21,
+        "definition": "Requests with no determination in the data (still open, or the decision record is missing)",
+        "n_ids": 21
+      }
+    ]
+  },
+  "truth": {
+    "year": 2026,
+    "basis": "decision",
+    "metrics": [
+      {
+        "key": "standard.total",
+        "label": "Standard requests determined",
+        "unit": "count",
+        "value": 280,
+        "definition": "Standard requests with an approve or deny determination in 2026",
+        "n_ids": 280
+      },
+      {
+        "key": "standard.approvedPct",
+        "label": "Standard: % approved",
+        "unit": "%",
+        "value": 75.7,
+        "numerator": 212,
+        "denominator": 280,
+        "definition": "Approved / all determined requests of this type",
+        "n_ids": 212
+      },
+      {
+        "key": "standard.deniedPct",
+        "label": "Standard: % denied",
+        "unit": "%",
+        "value": 24.3,
+        "numerator": 68,
+        "denominator": 280,
+        "definition": "Denied / all determined requests of this type",
+        "n_ids": 68
+      },
+      {
+        "key": "standard.approvedAfterAppealPct",
+        "label": "Standard: % approved after appeal",
+        "unit": "%",
+        "value": 47.2,
+        "numerator": 25,
+        "denominator": 53,
+        "definition": "Appeals overturned / appeals of standard requests decided in 2026",
+        "n_ids": 25
+      },
+      {
+        "key": "standard.meanHours",
+        "label": "Standard: mean hours to decision",
+        "unit": "hours",
+        "value": 129.5,
+        "definition": "Mean of (determination time minus payer receipt time); receipt is the earliest receipt across channels",
+        "n_ids": 280
+      },
+      {
+        "key": "standard.medianHours",
+        "label": "Standard: median hours to decision",
+        "unit": "hours",
+        "value": 96.2,
+        "definition": "Median of (determination time minus payer receipt time)",
+        "n_ids": 280
+      },
+      {
+        "key": "standard.withinTimeframePct",
+        "label": "Standard: % decided within 7 days",
+        "unit": "%",
+        "value": 68.9,
+        "numerator": 193,
+        "denominator": 280,
+        "definition": "Optional sub-metric: share determined inside the regulatory timeframe",
+        "n_ids": 193
+      },
+      {
+        "key": "expedited.total",
+        "label": "Expedited requests determined",
+        "unit": "count",
+        "value": 63,
+        "definition": "Expedited requests with an approve or deny determination in 2026",
+        "n_ids": 63
+      },
+      {
+        "key": "expedited.approvedPct",
+        "label": "Expedited: % approved",
+        "unit": "%",
+        "value": 77.8,
+        "numerator": 49,
+        "denominator": 63,
+        "definition": "Approved / all determined requests of this type",
+        "n_ids": 49
+      },
+      {
+        "key": "expedited.deniedPct",
+        "label": "Expedited: % denied",
+        "unit": "%",
+        "value": 22.2,
+        "numerator": 14,
+        "denominator": 63,
+        "definition": "Denied / all determined requests of this type",
+        "n_ids": 14
+      },
+      {
+        "key": "expedited.approvedAfterAppealPct",
+        "label": "Expedited: % approved after appeal",
+        "unit": "%",
+        "value": 27.3,
+        "numerator": 3,
+        "denominator": 11,
+        "definition": "Appeals overturned / appeals of expedited requests decided in 2026 (optional for expedited)",
+        "n_ids": 3
+      },
+      {
+        "key": "expedited.meanHours",
+        "label": "Expedited: mean hours to decision",
+        "unit": "hours",
+        "value": 90.6,
+        "definition": "Mean of (determination time minus payer receipt time); receipt is the earliest receipt across channels",
+        "n_ids": 63
+      },
+      {
+        "key": "expedited.medianHours",
+        "label": "Expedited: median hours to decision",
+        "unit": "hours",
+        "value": 35.6,
+        "definition": "Median of (determination time minus payer receipt time)",
+        "n_ids": 63
+      },
+      {
+        "key": "expedited.withinTimeframePct",
+        "label": "Expedited: % decided within 72 hours",
+        "unit": "%",
+        "value": 61.9,
+        "numerator": 39,
+        "denominator": 63,
+        "definition": "Optional sub-metric: share determined inside the regulatory timeframe",
+        "n_ids": 39
+      },
+      {
+        "key": "all.extendedApprovedPct",
+        "label": "All: % with review timeframe extended and approved",
+        "unit": "%",
+        "value": 23,
+        "numerator": 79,
+        "denominator": 343,
+        "definition": "Requests extended and approved / all determined requests",
+        "n_ids": 79
+      },
+      {
+        "key": "excluded.withdrawn",
+        "label": "Excluded: withdrawn by provider",
+        "unit": "count",
+        "value": 10,
+        "definition": "Withdrawn requests received in 2026",
+        "n_ids": 10
+      },
+      {
+        "key": "excluded.pending",
+        "label": "Excluded: no determination at export",
+        "unit": "count",
+        "value": 0,
+        "definition": "Requests with no determination in the data (still open, or the decision record is missing)",
+        "n_ids": 0
+      }
+    ]
+  },
+  "evaluation": {
+    "submissions": 432,
+    "trueRequestsWithRecords": 356,
+    "casesFound": 356,
+    "pairPrecision": 1,
+    "pairRecall": 1,
+    "exactRequestAccuracy": 1,
+    "falseMerges": 0,
+    "missedMerges": 0,
+    "appealLinkAccuracy": 1,
+    "faxFieldAccuracy": {
+      "memberId": 1,
+      "dob": 1,
+      "npi": 1,
+      "cpt": 1,
+      "priority": 1
+    },
+    "faxPagesScored": 117
+  },
+  "warnings": []
+}
