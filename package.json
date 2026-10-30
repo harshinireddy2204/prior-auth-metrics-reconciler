@@ -7,7 +7,7 @@
     "reconcile": "tsx src/cli.ts reconcile",
     "demo": "tsx src/cli.ts all",
     "explain": "tsx src/cli.ts explain",
-    "test": "tsx --test test/*.test.ts",
+    "test": "tsx --test test/units.test.ts test/matching.test.ts test/scenarios.test.ts test/llm.test.ts test/mcp.test.ts",
     "typecheck": "tsc --noEmit",
     "build": "tsc -p tsconfig.build.json",
     "mcp": "tsx src/mcp/server.ts"
