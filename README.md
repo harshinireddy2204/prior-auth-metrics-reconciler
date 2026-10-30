@@ -1,5 +1,7 @@
 # Prior Auth Metrics Reconciler
 
+**[Open the live demo](https://harshinireddy2204.github.io/prior-auth-metrics-reconciler/)** · no install needed
+
 **One prior authorization request, four intake channels, one correct count.**
 
 Under the CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F), impacted health plans must publish prior authorization metrics every year: percent approved, percent denied, percent approved after appeal, mean and median time to decision for standard and expedited requests, and percent of requests with an extended review that were approved. The first report was due March 31, 2026. The next one covers calendar year 2026.
